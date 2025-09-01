@@ -1,3 +1,6 @@
+
+console.log("WelCome to the javaScript.!")
+
 // tags of html storing in the variable using the DOM()
 let input = document.querySelector("#input")
 let task_list = document.querySelector("#task_list")
