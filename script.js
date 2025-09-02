@@ -1,5 +1,5 @@
 
-console.log("WelCome to the javaScript.!")
+console.log("WelCome to  javaScript.!")
 
 // tags of html storing in the variable using the DOM()
 let input = document.querySelector("#input")
@@ -14,6 +14,8 @@ btn.addEventListener("click", () => {
         alert("Enter The Task")
     }
 
+
+    
     // list is created and the task is stored in this list
     let a = document.createElement("li")
     a.classList.add("list")
